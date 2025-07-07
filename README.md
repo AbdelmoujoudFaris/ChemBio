@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.pharmaron.com/themes/custom/pharmaron/images/chem_computational.svg](https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/CRL_HEADER.png)" alt="CADD Banner" width="800"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/CRL_HEADER.png?raw=true" alt="CADD Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm FARIS</h1>
