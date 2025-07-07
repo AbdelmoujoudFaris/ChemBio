@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.pharmaron.com/themes/custom/pharmaron/images/chem_computational.svg" alt="CADD Banner" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm FARIS</h1>
 <h3 align="center">Cheminformatics and Bioinformatics Engineer | Molecular Modeling | CADD Specialist</h3>
 
