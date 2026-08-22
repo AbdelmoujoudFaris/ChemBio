@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/AbdelmoujoudFaris/ChemBio/main/Mmind.png" alt="CADD Banner" width="500"/>
 </p>
 
